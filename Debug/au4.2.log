@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  au4.2.cpp
+g:\games\it done in vs\au4.2\au4.2\au4.2.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+  au4.2.vcxproj -> G:\games\IT done in VS\au4.2\Debug\au4.2.exe
